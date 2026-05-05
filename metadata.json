@@ -1,0 +1,6 @@
+{
+  "name": "Expenses Brother",
+  "description": "Sistema de gestão e reembolso de despesas corporativas para executivos, financeiro, gerentes e diretores.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
